@@ -1,0 +1,13 @@
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.csprojAssemblyReference.cache
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.AssemblyInfoInputs.cache
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.AssemblyInfo.cs
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\bin\Debug\netcoreapp3.1\LovecraftSort.exe
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\bin\Debug\netcoreapp3.1\LovecraftSort.deps.json
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\bin\Debug\netcoreapp3.1\LovecraftSort.runtimeconfig.json
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\bin\Debug\netcoreapp3.1\LovecraftSort.runtimeconfig.dev.json
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\bin\Debug\netcoreapp3.1\LovecraftSort.dll
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\bin\Debug\netcoreapp3.1\LovecraftSort.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.dll
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\LovecraftSort\obj\Debug\netcoreapp3.1\LovecraftSort.genruntimeconfig.cache

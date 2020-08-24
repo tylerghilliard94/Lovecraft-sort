@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LovecraftSort/1.0.0": {
+        "runtime": {
+          "LovecraftSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LovecraftSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
